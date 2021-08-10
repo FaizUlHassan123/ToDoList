@@ -32,7 +32,7 @@ class MainTableViewController: UITableViewController {
             }
             
         } handler2: { _ in
-            print("Camcel")
+            print("Cancel btn")
         }
         
         
